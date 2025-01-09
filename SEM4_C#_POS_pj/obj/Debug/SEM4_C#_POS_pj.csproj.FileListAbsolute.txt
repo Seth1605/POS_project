@@ -1,0 +1,124 @@
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe.config
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.pdb
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.AssemblyReference.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.Properties.Resources.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.GenerateResource.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.CoreCompileInputs.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.exe
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.pdb
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.MDI.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.User.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.login.resources
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.AssemblyReference.cache
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.SuggestedBindingRedirects.cache
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.exe
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.pdb
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe.config
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.pdb
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.login.resources
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.MDI.resources
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.Properties.Resources.resources
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.User.resources
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.GenerateResource.cache
+D:\C#_III\Midterm\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.CoreCompileInputs.cache
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.AssemblyReference.cache
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.exe
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.pdb
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe.config
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.pdb
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.login.resources
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.MDI.resources
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.Properties.Resources.resources
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.User.resources
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.GenerateResource.cache
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.CoreCompileInputs.cache
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Role.resources
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Category.resources
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Customer.resources
+C:\School Supplie\SETEC\C#_III\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Product.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.AssemblyReference.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.exe
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.pdb
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe.config
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.pdb
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.login.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.MDI.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.Properties.Resources.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Category.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Customer.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Product.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Role.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.User.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.GenerateResource.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj create\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.CoreCompileInputs.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe.config
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.pdb
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.AssemblyReference.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.login.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.MDI.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.Properties.Resources.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Category.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Customer.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Product.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Role.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.User.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.GenerateResource.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.CoreCompileInputs.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.exe
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 2\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.pdb
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe.config
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.pdb
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.AssemblyReference.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.login.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.MDI.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.Properties.Resources.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Category.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Customer.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Product.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Role.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.User.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.GenerateResource.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.CoreCompileInputs.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.exe
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.pdb
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj 3\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Supplier.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe.config
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.pdb
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.AssemblyReference.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.login.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.MDI.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.Properties.Resources.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Category.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Customer.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Product.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Role.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Supplier.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.User.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.GenerateResource.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.CoreCompileInputs.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.exe
+D:\App File\PROGRAMMING FILE\Visual Studio 22\sem4\SEM4_C#_POS_pj\SEM4_C#_POS_pj\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.pdb
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe.config
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.exe
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\bin\Debug\SEM4_C#_POS_pj.pdb
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.AssemblyReference.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.login.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.MDI.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.Properties.Resources.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Category.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Customer.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Product.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Role.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.view.Supplier.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C__POS_pj.User.resources
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.GenerateResource.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.csproj.CoreCompileInputs.cache
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.exe
+D:\App File\PROGRAMMING FILE\Visual Studio 22\midterm finish\SEM4_C#_POS_pj\obj\Debug\SEM4_C#_POS_pj.pdb
